@@ -7,7 +7,7 @@ To create this prompt, add the following line to your ~/.bashrc file, then run `
 
 The output looks like this:
 
-![prompt](link here)
+![prompt](https://raw.githubusercontent.com/tomwarner13/EmojiBashPrompt/master/prompt.png)
 
 So that's `🏠<<USER,ORANGE>>@<<MACHINE NAME,BLUE>>[<<CURRENT DIRECTORY NAME,YELLOW>>]|<<CURRENT TIME,PURPLE>>🏠$ `
 
