@@ -17,7 +17,7 @@ I use the house emojis because this prompt is for my local machine. My main virt
 
 The parts that look like `\033[38;5;214m` are color codes; they tell the terminal to change the text color. You can look them up to change them to different ones.
 
-The `[$(tput sgr0)` tells the terminal to stop changing the text color--
+The `[$(tput sgr0)` tells the terminal to stop changing the text color, so it goes back to your default color until instructed otherwise.
 
 `\u` is "currently logged in user", useful for obvious reasons. I colored it orange.
 
