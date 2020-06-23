@@ -25,6 +25,6 @@ The `[$(tput sgr0)\]` tells the terminal to stop changing the text color, so it 
 
 `\W` is the short name of the current working directory, not the full path. I colored it yellow. Again, obviously useful.
 
-`\t` is the current local time in 24-hour format. There are other codes for time formats you can look but this one is the one I like best. Having the time in a prompt is actually suprisingly crucial because you can tell when you ran a command and when it finished just by looking at your prompt.
+`\t` is the current local time in 24-hour format. There are other codes for time formats you can look up but this one is the one I like best. Having the time in a prompt is actually suprisingly crucial because you can tell when you ran a command and when it finished just by looking at your prompt.
 
-Then there's another house emoji and a space at the end. If I start developing on more machines I'll pick a unique emoji for each so I can have instant visual confirmation of where my SSH session is connected to. Also, emojis are fun and cool 😄
+Then there's another house emoji and a space at the end. If I start developing on more machines I'll pick a unique emoji for each so I can have instant visual confirmation of where my SSH session is connected to. Also, emojis are fun and cool 😄😎
